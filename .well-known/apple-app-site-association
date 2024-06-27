@@ -5,6 +5,7 @@
       {
         "appID": "469FCFY8WA.com.comp.notyourrose",
         "paths" : [
+          "/login",
           "*"
         ]
       }
