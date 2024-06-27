@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "469FCFY8WA.com.company.notyourrose",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
