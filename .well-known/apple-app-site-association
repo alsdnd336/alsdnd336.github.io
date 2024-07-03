@@ -1,15 +1,12 @@
 {
   "applinks": {
+    "apps" : [],
     "details": [
       {      	   
         "appIDs": [
-        	"469FCFY8WA.com.comp.notyourrose",
+        	"469FCFY8WA.com.comp.notyourrose"
         ],
-        "components": [
-            {
-                "/" : "*"
-            }
-        ]
+        "paths" : ["*"]
       }
     ]
   }
