@@ -3,9 +3,7 @@
     "apps" : [],
     "details": [
       {      	   
-        "appIDs": [
-        	"469FCFY8WA.com.comp.notyourrose"
-        ],
+        "appID": "469FCFY8WA.com.comp.notyourrose",
         "paths" : ["*"]
       }
     ]
