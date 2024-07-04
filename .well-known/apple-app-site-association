@@ -6,7 +6,7 @@
         "appID": "469FCFY8WA.com.comp.notyourrose",
         "components": [
           {
-            "/login": "*"
+            "/": "*"
           }
         ]
       }
