@@ -1,11 +1,11 @@
 [
     {
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
         "namespace": "android_app",
         "package_name": "com.company.notyourrose",
         "sha256_cert_fingerprints":
-          ["13:12:DC:0F:53:47:A7:D6:60:8F:D7:29:25:90:7E:04:BD:BA:FF:B3:A6:92:75:E7:46:A0:11:EE:F6:C4:39:BA"]
-      }
+            ["13:12:DC:0F:53:47:A7:D6:60:8F:D7:29:25:90:7E:04:BD:BA:FF:B3:A6:92:75:E7:46:A0:11:EE:F6:C4:39:BA"]
+        }
     }
-  ]
+]
